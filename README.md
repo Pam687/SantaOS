@@ -1,7 +1,20 @@
-# SantaOS
-OFFICIAL SANTAOS PAGE!
-How to use
-In order to enjoy SantaOS properly you must click code, and click download ZIP, then un-zip in your desired folder and double click the html! Or use this link (remember this is only for SantaOS Web 5.1.0) resplendent-elf-a0649c.netlify.app, Please remember to switch the branches then download via the zip or else you will not get the .html file.
+# 🎅 SantaOS
 
-IMPORTANT! THIS GUIDE IS ONLY FOR THE SANTAOS WEB 5.1.0, IF YOU WANT TO USE ANY OTHER VERSION OR NON-WEB VERSION PLEASE CONTACT ME VIA EMAIL ON: GoldenLotusObGo@protonmail.com
-FURTHER READ-ME'S FOR EACH VERSION WILL BE GIVEN IN THE ZIP, THIS IS THE README 1, OTHERS WILL BE CALLED README 2. IF NOT GIVEN THEN USE THE ABOVE CONTACT INFORMATION.
+Welcome to the official repository for **SantaOS**!
+
+---
+
+## 🚀 How to Download & Run (SantaOS Web 5.6.0)
+
+Follow these simple steps to launch the latest version:
+
+1. **Switch Branch:** Click the branch dropdown menu near the top left (currently showing `main`) and select **`SANTAOS-WEB-5.6.0`**.
+2. **Download:** Click the green **Code** button and select **Download ZIP**.
+3. **Extract:** Unzip the downloaded file to your preferred location.
+4. **Launch:** Open the extracted folder, navigate through `SantaOS-SANTAOS-WEB-5.6.0` ➔ `SantaOS Stable 5.6.0`, and double-click **`index.html`** to run SantaOS in your web browser!
+
+---
+
+## 🌐 Previous Versions
+
+* **SantaOS Web 5.1.0:** Try the live web version instantly at [resplendent-elf-a0649c.netlify.app](https://resplendent-elf-a0649c.netlify.app).
